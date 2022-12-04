@@ -1,0 +1,1 @@
+copy this files into you php server and also import api_test.sql database to your mysql server
